@@ -9,7 +9,7 @@ import requests
 import os
 
 # ⚠️ Replace this after reset
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN =("BOT_TOKEN")
 
 # --- Reverse search helper links ---
 YANDEX_URL = "https://yandex.com/images/search?rpt=imageview&url={image_url}"
